@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @NoskAppa-sys
+- 👀 I’m interested in Game Cheating
+- 🌱 I’m currently learning Java & C++
+- 😀 I currently use Javascript, Python & Go
+- 📫 How to reach me: can't reach me lol
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like programming :)
